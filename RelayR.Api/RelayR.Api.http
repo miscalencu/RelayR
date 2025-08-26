@@ -1,0 +1,6 @@
+@RelayR.Api_HostAddress = http://localhost:5233
+
+GET {{RelayR.Api_HostAddress}}/publishnotification/
+Accept: application/json
+
+###
