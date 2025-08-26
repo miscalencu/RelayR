@@ -20,4 +20,4 @@ Long term:
 - implement pipeline behaviors: Logging, Validation, Performance timing, Retry logic, Authorization
 - add pre and post processors
 
-🙏 Thanks to @andrea-pellegrinelli for co-authoring this project and for the collaboration!
+🙏 Thanks to [@andrea-pellegrinelli](https://github.com/andrea-pellegrinelli) for co-authoring this project and for the collaboration!
